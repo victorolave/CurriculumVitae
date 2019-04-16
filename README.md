@@ -4,7 +4,6 @@ Diseño de estructural de página web con el uso únicamente de Html. Este códi
 ## Construido con 🛠️
 
 Para la programación de este programa se utilizo:
-* [Foundation](https://foundation.zurb.com/) - Framework Css.
 * [Visual Studio Code](https://code.visualstudio.com/) - Editor de codigo.
 
 ## Autor ✒️
